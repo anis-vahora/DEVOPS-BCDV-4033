@@ -11,11 +11,11 @@
 3. Terraform init
 ![Screenshot 2024-03-09 030159](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/67b974c6-f6a4-4f51-8b76-2938d9a360ef)
 
-4.terraform apply & verify that in docker
+4.terraform apply & verifying in docker
 ![Screenshot 2024-03-09 031013](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/b2d6a7ae-c21a-4f27-b2dc-5e87fc622179)
 ![Screenshot 2024-03-09 031034](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/4630c7cd-eb41-4789-9ba9-c16995d68e60)
 
-5. check that it opened the port
+5. check that the port is open
 ![Screenshot 2024-03-09 123511](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/80c8febf-314a-407c-ae42-b68bf50bbffb)
 
 6. Changes made
