@@ -19,6 +19,7 @@
 ![Screenshot 2024-03-09 123511](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/80c8febf-314a-407c-ae42-b68bf50bbffb)
 
 6. Changes made
+
 ![Screenshot 2024-03-09 034154](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0282aa71-6c5b-4fc0-af34-a7d67933abdf)
 
 7. terraform plan
