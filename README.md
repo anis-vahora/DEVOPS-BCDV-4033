@@ -31,6 +31,17 @@
 ![Screenshot 2024-03-09 034006](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/7b183663-3354-4396-8341-ba8deade4cd8)
 
 8. terraform destroy
+![Screenshot 2024-03-09 122332](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/8846ca2d-eaf9-4b3b-a91f-10f05eb4a750)
+![Screenshot 2024-03-09 122408](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/521b2de0-3a03-4434-aa84-38d2cae8622b)
+
+9. Created resource with dependencies
+![Screenshot 2024-03-09 123030](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/14022738-b20a-4009-8349-77ceaee8c2f8)
+![Screenshot 2024-03-09 122744](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/421ce872-78b9-4820-afc3-1cd374afdb20)
+![Screenshot 2024-03-09 122751](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/7d84ce16-3433-485c-b410-0fd9da9a05e0)
+![Screenshot 2024-03-09 122907](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0b2c7227-4973-419a-8059-a77288431494)
+![Screenshot 2024-03-09 122913](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0fc58c48-a76d-49b0-aff6-4d3929c72e08)
+![Screenshot 2024-03-09 123204](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/8091996f-551d-4d04-8f04-1b8db6a85ee0)
+
 
 
 
