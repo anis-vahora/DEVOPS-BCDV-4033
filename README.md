@@ -16,7 +16,7 @@
 ![Screenshot 2024-03-09 031034](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/4630c7cd-eb41-4789-9ba9-c16995d68e60)
 
 5. check that it opened the port
-![9](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/eeb03cf6-40d0-41c0-914b-12eea553e458)
+![Screenshot 2024-03-09 123204](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/8091996f-551d-4d04-8f04-1b8db6a85ee0)
 
 6. Changes made
 ![Screenshot 2024-03-09 034154](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0282aa71-6c5b-4fc0-af34-a7d67933abdf)
@@ -40,7 +40,6 @@
 ![Screenshot 2024-03-09 122751](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/7d84ce16-3433-485c-b410-0fd9da9a05e0)
 ![Screenshot 2024-03-09 122907](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0b2c7227-4973-419a-8059-a77288431494)
 ![Screenshot 2024-03-09 122913](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/0fc58c48-a76d-49b0-aff6-4d3929c72e08)
-![Screenshot 2024-03-09 123204](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/8091996f-551d-4d04-8f04-1b8db6a85ee0)
 
 
 
