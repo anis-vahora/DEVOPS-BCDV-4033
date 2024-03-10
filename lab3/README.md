@@ -1,7 +1,8 @@
 # Lab 3
-![Screenshot 2024-03-10 185640](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/2db1d764-9bb3-4572-b45e-a61e4225b7a3)
+
 ![Screenshot 2024-03-10 185720](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/03735d48-c2d7-489b-a540-18cf48a4b509)
 ![Screenshot 2024-03-10 185745](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/16e2adf6-f7e9-4bc1-b169-fec65921d728)
+![Screenshot 2024-03-10 185640](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/2db1d764-9bb3-4572-b45e-a61e4225b7a3)
 ![Screenshot 2024-03-10 185753](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/6e3a725d-27d7-44ea-99de-0968cec21386)
 ![Screenshot 2024-03-10 190050](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/08d064a8-216a-4a70-bb02-0451d6d5ba31)
 ![Screenshot 2024-03-10 190121](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/bc2be46d-58f5-4a2f-90dc-df3a326dc3d2)
