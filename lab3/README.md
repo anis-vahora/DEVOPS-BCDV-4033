@@ -18,6 +18,8 @@
 ![Screenshot 2024-03-11 063356](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/a791920b-3e3d-4ebb-aa5c-bbf3ab8771a0)
 ![Screenshot 2024-03-11 065144](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/62d84c8c-228a-43a2-8db2-f51ba30a14d4)
 ![Screenshot 2024-03-11 072441](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/1478c41f-509e-4c89-a6cd-ef56b19836c1)
+![Screenshot 2024-03-11 075422](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/74b9dc23-d622-4e86-9b6c-c7aafdefaa4a)
+![Screenshot 2024-03-11 075523](https://github.com/anis-vahora/DEVOPS-BCDV-4033/assets/58881736/69d970ef-0cc1-4ec5-8d3d-6f964613c82d)
 
 
 
